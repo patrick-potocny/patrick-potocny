@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/67468836/227903231-bb1183a1-f35c-439b-8eae-5a3c1f0a1731.png)
 # Hi I'm Patrik 👋
 ---
-Front-end developer with one year of experience building websites and web applications. I specialize in HTML, CSS, JavaScript, React, TypeScript, SCSS and Next.js. I'm passionate about creating fast, responsive, and intuitive user experiences, and I love to stay up-to-date with the latest trends and best practices in web development. Check out my projects below, and feel free to reach out if you have any questions or just want to chat!
+Front-end developer with 1+ year of experience building websites and web applications. I specialize in HTML, CSS, JavaScript, React, TypeScript, SCSS and Next.js. I'm passionate about creating fast, responsive, and intuitive user experiences, and I love to stay up-to-date with the latest trends and best practices in web development. Check out my projects below, and feel free to reach out if you have any questions or just want to chat!
 
 <p align="center">
 <a target="_blank" href="https://www.patrikp.dev/">👉 Portfolio 👈</a>   
