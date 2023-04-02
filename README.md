@@ -5,9 +5,6 @@ Front-end developer with 1+ year of experience building websites and web applica
 
 <p align="center">
 <a target="_blank" href="https://www.patrikp.dev/">👉 Portfolio 👈</a>   
-  </p>
-  <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/patrikpotocny">👉 LinkedIn 👈</a>
 </p>
 
 ## Skills
